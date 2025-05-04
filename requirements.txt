@@ -1,0 +1,21 @@
+
+# Core Dependencies
+requests==2.31.0
+instaloader==4.9.2
+python-linkedin==2.0.0
+questionary==2.0.1
+rich==13.7.0
+networkx==3.2.1
+pillow==10.2.0
+python-dotenv==1.0.0
+
+# Development
+pytest==8.0.2
+mypy==1.8.0
+black==23.12.1
+
+# Security
+cryptography==42.0.4
+argon2-cffi==23.1.0
+
+

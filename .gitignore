@@ -1,0 +1,20 @@
+# Standard
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# Custom
+/outputs/archives/
+/logs/access.log
+/temp_downloads/
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+*.egg-info/
