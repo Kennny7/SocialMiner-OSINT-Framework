@@ -1,14 +1,15 @@
 # [+] SocialMiner OSINT Framework
 
-*Ethical Digital Footprint Analysis at Scale*  
+*Ethical Digital Footprint Analysis at Scale*
+
 [+] **Warning**: Strictly for authorized penetration testing and personal security audits.  
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 <!-- ![SocialMiner Demo](https://via.placeholder.com/800x400.png?text=SocialMiner+Interface+Preview) -->
 
-```markdown
 ## [+] Project Structure
 
+```markdown
 SocialMiner/
 ├── .env.example                   # Environment template
 ├── requirements.txt               # Python dependencies
