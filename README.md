@@ -3,7 +3,7 @@
 *Ethical Digital Footprint Analysis at Scale*
 
 [+] **Warning**: Strictly for authorized penetration testing and personal security audits.  
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
 
 <!-- ![SocialMiner Demo](https://via.placeholder.com/800x400.png?text=SocialMiner+Interface+Preview) -->
 
