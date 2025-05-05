@@ -104,7 +104,7 @@ from modules.google_dorker import GoogleMiner
 from intelligence.pattern_analyzer import BehaviorProfiler
 
 # Initialize miner
-miner = GoogleMiner(target_name="John Doe", region="New York")
+miner = GoogleMiner(target_name="Kennny", region="India")
 
 # Execute search
 results = miner.find_profiles()
