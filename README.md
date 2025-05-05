@@ -8,7 +8,7 @@
 ![SocialMiner Demo](https://via.placeholder.com/800x400.png?text=SocialMiner+Interface+Preview)
 
 ## [+] Project Structure
-
+```
 ```
 SocialMiner/
 ├── .env.example                   # Environment template
