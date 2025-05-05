@@ -1,4 +1,3 @@
-```markdown
 # [+] SocialMiner OSINT Framework
 
 *"Ethical Digital Footprint Analysis at Scale"*  
@@ -7,9 +6,9 @@
 
 ![SocialMiner Demo](https://via.placeholder.com/800x400.png?text=SocialMiner+Interface+Preview)
 
+```markdown
 ## [+] Project Structure
-```
-```
+
 SocialMiner/
 ├── .env.example                   # Environment template
 ├── requirements.txt               # Python dependencies
