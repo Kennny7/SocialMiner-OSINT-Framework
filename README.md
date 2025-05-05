@@ -154,5 +154,4 @@ Distributed under GNU GPLv3 License. See `LICENSE` for details.
 ---
 
 **Disclaimer:** This project is intended for legal security research and authorized penetration testing only. Developers assume no liability for misuse. All data collection adheres strictly to platform ToS and regional data protection laws (GDPR/CCPA compliant).
-```
 
